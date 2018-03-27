@@ -1,4 +1,4 @@
-#Merchant-Center部署文档
+# Merchant-Center部署文档
 > 基于react搭建的前端框架（商户中心）部署文档
 
 ## 一、环境搭建
